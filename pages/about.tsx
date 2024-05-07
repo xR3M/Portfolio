@@ -41,8 +41,6 @@ export default function About() {
 
                   <p>A standout project in my portfolio is the comprehensive analysis of land subsidence and vegetation changes in the Po Valley using Differential Interferometric Synthetic Aperture Radar (DInSAR) techniques, demonstrating the critical role of remote sensing in natural resource management.</p>
 
-                  <p>Beyond my professional endeavors, I am passionate about mentoring, helping to cultivate the next generation of GIS professionals through academic support and project guidance. My ambition is to continue exploring and pushing the boundaries of GIS and remote sensing to address global environmental challenges, contributing to sustainable development and conservation efforts.</p>
-
                   <p>Thank you for visiting my site. I'm eager to connect with like-minded professionals and enthusiasts who are driven to harness the power of GIS and remote sensing for a better future.</p>
 
                 
